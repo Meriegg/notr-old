@@ -1,4 +1,4 @@
-[OLD VERSION] New version is available at (https://github.com/Meriegg/notr)[https://github.com/Meriegg/notr]
+[OLD VERSION] New version is available at [https://github.com/Meriegg/notr](https://github.com/Meriegg/notr)
 
 # Why?
 
