@@ -1,3 +1,5 @@
+[OLD VERSION] New version is available at (https://github.com/Meriegg/notr)[https://github.com/Meriegg/notr]
+
 # Why?
 
 I made this project to help me manage text files on my computer.
